@@ -8,5 +8,5 @@
     "start": "node server.js"
   },
   "author": "Sadeeque Zubair",
-  "license": "ISC"
+  "license": "MIT"
 }
